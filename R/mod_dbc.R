@@ -1,6 +1,7 @@
 #' assumptionsTest UI Function
 #'
-#' @description A shiny Module.
+#' @description A shiny Module. 
+#'
 #'
 #' @param id,input,output,session Internal parameters for {shiny}.
 #'
